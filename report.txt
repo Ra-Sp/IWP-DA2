@@ -1,0 +1,8 @@
+Name: Radhika
+Age: 20
+Marks: 100
+JComponent Writeup: This is a demonstration of writing data to a file using PHP and appending additional content.
+Name: Meera
+Age: 22
+Marks: 98
+JComponent Writeup: This is a demonstration of writing data to a file using PHP and appending additional content.
